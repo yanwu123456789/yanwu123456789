@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yanwu123456789
+- 👋 Hi, I’m @yanwu123456789.
 - 👀 I’m interested in so many things,such as playing computer games,listening to music and so on.
 - 🌱 I’m currently learning basic knowledge about Iot.
 - 💞️ I’m looking to collaborate on ...
