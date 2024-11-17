@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @yanwu123456789
+- 👀 I’m interested in so many things,such as playing computer games,listening to music and so on.
+- 🌱 I’m currently learning basic knowledge about Iot.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+yanwu123456789/yanwu123456789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
